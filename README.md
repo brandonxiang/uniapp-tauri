@@ -2,6 +2,8 @@
 <h2 align="center">A Startup Template with Uniapp and Tauri</h2>
 <br>
 
+This template is inspired by [start-uni](https://github.com/zguolee/starter-uni) and tauri starter.
+
 ## Features
 
 - ⚡️ [Vue 3](https://github.com/vuejs/vue-next), [Vite 2](https://github.com/vitejs/vite), [pnpm](https://pnpm.js.org/) - born with fastness
