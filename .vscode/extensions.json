@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "antfu.iconify",
+    "antfu.unocss",
+    "dbaeumer.vscode-eslint",
+    "vue.volar",
+    "lokalise.i18n-ally",
+    "streetsidesoftware.code-spell-checker",
+    "tauri-apps.tauri-vscode",
+    "rust-lang.rust-analyzer"
+  ]
+}
